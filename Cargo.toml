@@ -1,0 +1,12 @@
+[package]
+name = "tochri"
+version = "0.1.0"
+authors = ["madmaid <madmaid@users.noreply.github.com>"]
+edition = "2018"
+repository = "https://github.com/madmaid/tochri"
+keywords = ["toc"]
+description = "Compact Disc TOC library for Rust"
+
+[dependencies]
+combine = "3.8.1"
+failure = "0.1.5"
