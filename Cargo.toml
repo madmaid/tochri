@@ -6,6 +6,7 @@ edition = "2018"
 repository = "https://github.com/madmaid/tochri"
 keywords = ["toc"]
 description = "Compact Disc TOC library for Rust"
+license = "MIT/Apache-2.0"
 
 [dependencies]
 combine = "3.8.1"
